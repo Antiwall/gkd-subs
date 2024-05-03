@@ -1,11 +1,11 @@
 {
-  "name": "@aisouler/gkd_subscription",
-  "version": "0.0.72",
+  "name": "@antiwall/gkd-subs",
+  "version": "0.0.0",
   "type": "module",
   "gkd": {
     "outDir": "dist",
-    "file": "AIsouler_gkd.json5",
-    "versionFile": "AIsouler_gkd.version.json5",
+    "file": "gkd_subs.json5",
+    "versionFile": "gkd_subs.version.json5",
     "changelog": "CHANGELOG.md",
     "README.md": "README.md"
   },

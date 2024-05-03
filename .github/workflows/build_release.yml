@@ -67,8 +67,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./dist/AIsouler_gkd.json5
-          asset_name: AIsouler_gkd_${{ steps.version.outputs.version }}.json5
+          asset_path: ./dist/gkd_subs.json5
+          asset_name: gkd_subs_${{ steps.version.outputs.version }}.json5
           asset_content_type: application/json
 
       - name: Publish package
@@ -83,5 +83,5 @@ jobs:
       - name: sync jsDelivr
         if: ${{ steps.commit.outcome == 'success' }}
         run: |
-          curl -X PUT 'https://purge.jsdelivr.net/gh/AIsouler/GKD_subscription@main/dist/AIsouler_gkd.json5'
-          curl -X PUT 'https://purge.jsdelivr.net/gh/AIsouler/GKD_subscription@main/dist/AIsouler_gkd.version.json5'
+          curl -X PUT 'https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}/@main/dist/gkd_subs.json5'
+          curl -X PUT 'https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}/@main/dist/gkd_subs.version.json5'

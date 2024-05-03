@@ -20,11 +20,11 @@ apps.forEach((appConfig) => {
 
 export default defineGkdSubscription({
   id: 666,
-  name: 'AIsouler的GKD订阅',
+  name: 'Antiwall 的GKD订阅',
   version: 0,
-  author: 'AIsouler',
-  checkUpdateUrl: './AIsouler_gkd.version.json5',
-  supportUri: 'https://github.com/AIsouler/GKD_subscription',
+  author: 'Antiwall',
+  checkUpdateUrl: './gkd_subs.version.json5',
+  supportUri: 'https://github.com/Antiwall/gkd-subs',
   categories,
   globalGroups,
   apps: rawApps,

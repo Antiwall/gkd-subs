@@ -1,4 +1,4 @@
-# @AIsouler/GKD_subscription
+# @Antiwall/gkd-subs
 
 ---
 
@@ -18,24 +18,24 @@
 - npmmirror源（推荐）
 
 ```txt
-https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5
+https://registry.npmmirror.com/@antiwall/gkd-subs/latest/files/dist/gkd_subs.json5
 ```
 
 - gitmirror源
 
 ```txt
-https://raw.gitmirror.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
+https://raw.gitmirror.com/Antiwall/gkd-subs/main/dist/gkd_subs.json5
 ```
 
 - jsDelivr源
 
 ```txt
-https://cdn.jsdelivr.net/gh/AIsouler/GKD_subscription@main/dist/AIsouler_gkd.json5
+https://cdn.jsdelivr.net/gh/Antiwall/gkd-subs@main/dist/gkd_subs.json5
 ```
 
-当前版本: v72
+当前版本: v0
 
-当前订阅文件已适配 730 个应用，共有 1710 应用规则组，3 全局规则组
+当前订阅文件已适配 731 个应用，共有 1711 应用规则组，3 全局规则组
 
 查看 [适配 APP 列表](./dist/README.md)
 
@@ -53,8 +53,8 @@ https://cdn.jsdelivr.net/gh/AIsouler/GKD_subscription@main/dist/AIsouler_gkd.jso
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=AIsouler/GKD_subscription&_v=72)
+![img](https://contrib.rocks/image?repo=Antiwall/gkd-subs&_v=0)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AIsouler/GKD_subscription&type=Date)](https://star-history.com/#AIsouler/GKD_subscription&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Antiwall/gkd-subs&type=Date)](https://star-history.com/#Antiwall/gkd-subs&Date)
