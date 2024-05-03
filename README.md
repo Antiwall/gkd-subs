@@ -33,7 +33,7 @@ https://raw.gitmirror.com/Antiwall/gkd-subs/main/dist/gkd_subs.json5
 https://cdn.jsdelivr.net/gh/Antiwall/gkd-subs@main/dist/gkd_subs.json5
 ```
 
-当前版本: v0
+当前版本: v1
 
 当前订阅文件已适配 731 个应用，共有 1711 应用规则组，3 全局规则组
 
@@ -53,7 +53,7 @@ https://cdn.jsdelivr.net/gh/Antiwall/gkd-subs@main/dist/gkd_subs.json5
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=Antiwall/gkd-subs&_v=0)
+![img](https://contrib.rocks/image?repo=Antiwall/gkd-subs&_v=1)
 
 ## Star History
 
